@@ -1,4 +1,4 @@
-k# CSS Page Layout Code Along
+# CSS Page Layout Code Along
 
 ## Overview
 
